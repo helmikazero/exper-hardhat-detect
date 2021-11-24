@@ -16,7 +16,7 @@ dependencies:
   - debugpy=1.4.1=py38h885f38d_0
   - decorator=5.1.0=pyhd8ed1ab_0
   - entrypoints=0.3=pyhd8ed1ab_1003
-  - freetype=2.11.0=ha860e81_0
+
   - icu=58.2=ha925a31_3
   - intel-openmp=2021.3.0=haa95532_3372
   - ipykernel=6.4.2=py38h595d716_0
@@ -84,6 +84,7 @@ dependencies:
     - clang==5.0
     - cycler==0.11.0
     - flatbuffers==1.12
+    - freetype=2.11.0=ha860e81_0
     - gast==0.4.0
     - google-auth==2.3.3
     - google-auth-oauthlib==0.4.6
