@@ -1,0 +1,7 @@
+names:
+- head
+- helmet
+- person
+nc: 3
+train: safeTy_helemt-1/train/images
+val: safeTy_helemt-1/valid/images
